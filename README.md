@@ -23,7 +23,7 @@ const aboutMe = {
 
 ---
 <h3>Other skills 👀</h3>
-  <img width="400" height="190" src="[https://media.giphy.com/media/9B8wYztAoe1zO/source.gif](https://i.imgur.com/MvMxQ1a.gif)" align=right>
+  <img width="400" height="190" src="https://i.imgur.com/MvMxQ1a.gif" align=right>
    ° 🧠 Excellent at solving both technical and logical ☕</br></br>
    ° 😏 Excellent adaptation to new knowledge</br></br>
    ° 😎 High English level skills</br></br>
